@@ -36,7 +36,7 @@ The following are the files available in this repository:
 ` reviews_m.csv`  and ` reviews_t.csv`  - csvs containing the home_id, date of review, reviewer_id, reviewer_name, and reviewer comments for the reviewed stays.
 
 # Results
-The main findings of the code can be found at the blog post available [here](https://medium.com/@imane.datax/airbnb-rental-prices-analysis-montreal-vs-toronto-c405f698a314).
+The main findings of the code can be found at the blog post published at Analytics Vidhya available [here](https://medium.com/analytics-vidhya/airbnb-rental-prices-analysis-montreal-vs-toronto-c405f698a314).
 
 # Licensing, Authors, Acknowledgements
 Must give credit to AirBnB for the data. You can find the Licensing for the data and other descriptive information for the Montreal and Toronto data on [AirbnbInside](http://insideairbnb.com/get-the-data.html).
